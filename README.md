@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Jacob, currently a freelancer/student at the [Enosis Solutions](https://www.enosisbd.com/). I am a Web Developer and a tech geek. 
+I am Jacob, currently a freelancer and a student of GCTU. I am a Web Developer and a tech geek. 
 Connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-ludehsar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/ludehsar/)

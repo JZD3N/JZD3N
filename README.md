@@ -8,9 +8,9 @@
 ### I am Jacob, currently a freelancer and a student of GCTU. I am a Web Developer and a tech geek. 
 Connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)](https://www.linkedin.com/in/jacobquarshie/)
-[![Gmail Badge](https://img.shields.io/badge/-jacobquarshie01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mdraanik12@gmail.com)](mailto:mdraanik12@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/damn.nii-1877F2?style=flat-square&logo=Twitter&logoColor=white&link=https://www.facebook.com/rashedul.alam.anik.2/)](https://www.facebook.com/rashedul.alam.anik.2/)
+[![Linkedin Badge](https://img.shields.io/badge/-jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacobquarshie/)](https://www.linkedin.com/in/jacobquarshie/)
+[![Gmail Badge](https://img.shields.io/badge/-jacobquarshie01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacobquarshie01@gmail.com)](mailto:jacobquarshie01@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/damn.nii-1877F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devwxthjake)](https://twitter.com/devwxthjake)
 
 
 ## ⚡ Technologies

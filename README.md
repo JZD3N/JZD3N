@@ -5,12 +5,12 @@
   <img width="1020" height="480" src="https://github.com/JZD3N/tmp/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif">
 </p>
 
-### I am Jacob, currently a freelancer and a student of GCTU. I am a Web Developer and a tech geek. 
+### Hi, I'm Nii – GCTU student, Web Developer, and tech enthusiast! Let's dive into the world of coding and tech wonders together! 🌐💡
 Connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-jacob-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jacobquarshie/)](https://www.linkedin.com/in/jacobquarshie/)
 [![Gmail Badge](https://img.shields.io/badge/-jacobquarshie01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jacobquarshie01@gmail.com)](mailto:jacobquarshie01@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/damn.nii-1877F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devwxthjake)](https://twitter.com/devwxthjake)
+[![Twitter Badge](https://img.shields.io/badge/NiiTheDesiigner-1877F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/devwxthjake)](https://twitter.com/devwxthjake)
 
 
 ## ⚡ Technologies

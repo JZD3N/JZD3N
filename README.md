@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <p align="center">
   <img width="1020" height="480" src="https://github.com/JZD3N/tmp/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966.gif">
 </p>
